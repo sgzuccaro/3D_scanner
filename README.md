@@ -1,4 +1,4 @@
-# 3D_scanner
+# Handheld 3D Scanner
 
 A 3d scanner for indoor/outdoor spacial mapping.
 
